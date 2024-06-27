@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @internet-village
+- 👀 I’m interested in innovative technology solutions, software development, and digital transformation. I have a strong passion for algorithms, programming languages, and embedded systems.
+- 🌱 I’m currently learning advanced techniques in machine learning, blockchain technology, and secure software development with Rust.
+- 💞️ I’m looking to collaborate on projects related to mobile application development, secure software solutions, and IoT applications using platforms like Flutter, Raspberry Pi, and NVIDIA Jetson.
+- 📫 How to reach me: You can contact me via email at contact@internet-village.lu or follow me on LinkedIn at [LinkedIn Profile](https://www.linkedin.com/in/internet-village).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love integrating technology into everyday objects, making them smarter and more efficient. When I'm not coding, you'll find me hiking in the mountains or tinkering with 3D printing projects.
